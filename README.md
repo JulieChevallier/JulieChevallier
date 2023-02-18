@@ -7,7 +7,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Computer+science+student;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
-## Tools & Languages
+## Languages & Tools
 <p>
   <a href="https://github.com/search?q=user%3ASliimsey+language%3Ac">
     <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
